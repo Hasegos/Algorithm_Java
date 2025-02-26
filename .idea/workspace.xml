@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b1b97f8-17e1-471a-ac7c-4f3c7e8eaece" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Baekjun.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stage5/단어의개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stage5/상수.java" afterDir="false" />
+    <list default="true" id="7b1b97f8-17e1-471a-ac7c-4f3c7e8eaece" name="Changes" comment="자바 알고리즘 공부 시작!">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Hasegos"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hasegos/Algorithm_Java.git",
+    "accountId": "7d289e27-a07c-489d-a4c3-b979d9f21464"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
   <component name="RunManager" selected="Application.상수">
@@ -124,6 +127,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740497559168</updated>
     </task>
+    <task id="LOCAL-00001" summary="자바 알고리즘 공부 시작!">
+      <option name="closed" value="true" />
+      <created>1740578479405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740578479405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="자바 알고리즘 공부 시작!" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 알고리즘 공부 시작!" />
   </component>
 </project>
