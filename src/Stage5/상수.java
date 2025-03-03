@@ -17,7 +17,6 @@ import java.util.Scanner;
 
 /* 예제 입력 1 : 734 893  예제 출력 1 : 437 */
 
-
 public class 상수 {
 
     public static void main(String[] args) {
