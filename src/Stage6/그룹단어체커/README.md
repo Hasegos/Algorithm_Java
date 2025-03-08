@@ -1,8 +1,8 @@
-# 너의 평점은
+# 그룹 단어 체커
 
 ## 목차
 ___
-1. [문제 주소](https://www.acmicpc.net/problem/25206)
+1. 문제 주소 : <https://www.acmicpc.net/problem/1316>
 2. [문제 시작](#문제)
 2. [해결방안](#해결방안)
 ___
