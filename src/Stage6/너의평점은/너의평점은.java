@@ -2,7 +2,6 @@ package Stage6.너의평점은;
 
 import java.util.Scanner;
 
-
 public class 너의평점은 {
 
     public static void main(String[] args) {

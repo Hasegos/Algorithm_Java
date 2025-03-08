@@ -54,7 +54,7 @@ ___
 + 등급은 A+,A0,B+,B0,C+,C0,D+,D0,F,P중 하나이다. 
 + 적어도 한 과목은 등급이 P가 아님이 보장된다.
 ___
-## 예시 
+## 예제 입력 1 
 
 ObjectOrientedProgramming1 3.0 A+ <br>
 IntroductiontoComputerEngineering 3.0 A+ <br>
@@ -77,8 +77,37 @@ CapstoneDesigninCSE 3.0 B+ <br>
 CompilerDesign 3.0 D0 <br>
 ProblemSolving 4.0 P <br>
 ___
-## 출력
+
+## 예제 출력 1
 3.284483
+___
+
+## 예제 입력 2
+
+BruteForce 3.0 F <br>
+Greedy 1.0 F <br>
+DivideandConquer 2.0 F <br>
+DynamicProgramming 3.0 F <br>
+DepthFirstSearch 4.0 F <br>
+BreadthFirstSearch 3.0 F <br>
+ShortestPath 4.0 F <br>
+DisjointSet 2.0 F <br>
+MinimumSpanningTree 2.0 F <br>
+TopologicalSorting 1.0 F <br>
+LeastCommonAncestor 2.0 F <br>
+SegmentTree 4.0 F <br>
+EulerTourTechnique 3.0 F <br>
+StronglyConnectedComponent 2.0 F <br>
+BipartiteMatching 2.0 F <br>
+MaximumFlowProblem 3.0 F <br>
+SuffixArray 1.0 F <br>
+HeavyLightDecomposition 4.0 F <br>
+CentroidDecomposition 3.0 F <br>
+SplayTree 1.0 F <br>
+___
+
+## 예제 출력 2
+0.000000
 ___
 
 ## 해결방안
