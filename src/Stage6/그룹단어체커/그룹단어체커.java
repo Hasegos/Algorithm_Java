@@ -1,4 +1,4 @@
-package Stage6;
+package Stage6.그룹단어체커;
 
 import java.util.Scanner;
 
