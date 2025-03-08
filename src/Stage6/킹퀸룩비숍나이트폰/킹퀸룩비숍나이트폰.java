@@ -1,4 +1,4 @@
-package Stage6.킹튄룩비숍나이트폰;
+package Stage6.킹퀸룩비숍나이트폰;
 
 import java.util.Scanner;
 
