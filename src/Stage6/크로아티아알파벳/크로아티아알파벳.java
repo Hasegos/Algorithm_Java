@@ -1,4 +1,4 @@
-package Stage6;
+package Stage6.크로아티아알파벳;
 
 import java.util.Scanner;
 
