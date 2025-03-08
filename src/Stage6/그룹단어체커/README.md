@@ -2,7 +2,7 @@
 
 ## 목차
 ___
-1. [문제 주소](https://www.acmicpc.net/step/52)
+1. [문제 주소]`https://www.acmicpc.net/problem/1316`
 2. [문제 시작](#문제)
 2. [해결방안](#해결방안)
 ___
