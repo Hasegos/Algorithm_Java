@@ -1,4 +1,4 @@
-package Stage6.팰린드롭인지확인하기;
+package Stage6.팰린드롬인지확인하기;
 
 import java.util.Scanner;
 
