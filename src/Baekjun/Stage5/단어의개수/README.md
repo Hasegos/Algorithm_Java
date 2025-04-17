@@ -2,7 +2,7 @@
 
 ## 목차
 
-1. 문제 주소 : `https://www.acmicpc.net/problem/5622`
+1. 문제 주소 : `https://www.acmicpc.net/problem/1152`
 2. [문제 시작](#문제)
 3. [해결방안](#해결방안)
 4. [문자열 목차 돌아가기](../README.md)
