@@ -1,4 +1,4 @@
-package Stage7.최댓값;
+package Baekjun.Stage7.최댓값;
 
 import java.util.Scanner;
 
