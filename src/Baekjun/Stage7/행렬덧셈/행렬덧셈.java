@@ -1,4 +1,4 @@
-package Stage7.행렬덧셈;
+package Baekjun.Stage7.행렬덧셈;
 
 import java.util.Scanner;
 
