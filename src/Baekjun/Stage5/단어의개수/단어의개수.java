@@ -1,4 +1,4 @@
-package Stage5;
+package Baekjun.Stage5.단어의개수;
 
 import java.util.Scanner;
 
