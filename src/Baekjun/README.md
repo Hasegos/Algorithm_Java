@@ -10,7 +10,7 @@
 2. [조건문]()
 3. [반복문]()
 4. [1차원 배열]()
-5. [문자열]()
+5. [문자열](Stage5/README.md)
 6. [심화 1](Stage6/README.md)
 7. [2차원 배열](Stage7/README.md)
 8. [일반 수학 1](Stage8/README.md)
