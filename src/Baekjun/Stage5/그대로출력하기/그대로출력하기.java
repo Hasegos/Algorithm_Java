@@ -1,4 +1,4 @@
-package Stage5;
+package Baekjun.Stage5.그대로출력하기;
 
 import java.util.Scanner;
 
