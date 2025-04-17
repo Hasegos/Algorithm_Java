@@ -9,7 +9,7 @@
 
 ### [백준 알고리즘](https://www.acmicpc.net/) 주소 입니다
 
-[JAVA로 백준 알고리즘 정리](./src/README.md) <br>
+[JAVA로 백준 알고리즘 정리](src/Baekjun/README.md) <br>
 JAVA로 백준 알고리즘 공부모음입니다.
 각 문제별 해결하는 방식이 적혀있습니다.<br>
 참고 바랍니다! :)
