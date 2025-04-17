@@ -1,4 +1,4 @@
-package Stage7.색종이;
+package Baekjun.Stage7.색종이;
 
 import java.util.Scanner;
 
