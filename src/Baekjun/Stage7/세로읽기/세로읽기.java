@@ -1,4 +1,4 @@
-package Stage7.세로읽기;
+package Baekjun.Stage7.세로읽기;
 
 import java.util.Scanner;
 
