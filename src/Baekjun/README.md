@@ -15,4 +15,4 @@
 7. [2차원 배열](Stage7/README.md)
 8. [일반 수학 1](Stage8/README.md)
 9. [약수, 배수와 소수](Stage9/README.md)
-10. [기하: 직사각형과 삼각형](Stage10EADME.md)
+10. [기하: 직사각형과 삼각형](Stage10/README.md)
