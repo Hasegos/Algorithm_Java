@@ -21,6 +21,3 @@
 | 8. 일반 수학 1 | [링크](Stage8/README.md)  |
 | 9. 약수, 배수와 소수 | [링크](Stage9/README.md) |
 | 10. 기하: 직사각형과 삼각형 | [링크](Stage10/README.md) |
-
-
-<a href="https://www.acmicpc.net/problem/18258" target="_blank">큐 2</a>
