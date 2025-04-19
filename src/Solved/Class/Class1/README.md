@@ -6,7 +6,7 @@
 
 | 순번  | 문제번호  |   문제이름    |                                 난이도                                 |                    문제 주소                    | 풀이링크                          | 상태  |
 |:---:|:-----:|:---------:|:-------------------------------------------------------------------:|:-------------------------------------------:|:------------------------------|:---------:|
-| 000 | 2475  |    검증수    | <img src ="https://static.solved.ac/tier_small/1.svg" width = "15"> | ```https://www.acmicpc.net/problem/2475```  | [바로 가기](./검증수/README.md)      | |
+| 000 | 2475  |    검증수    | <img src ="https://static.solved.ac/tier_small/1.svg" width = "15"> | ```https://www.acmicpc.net/problem/2475```  | [바로 가기](./검증수/README.md)      | ![DONE](https://img.shields.io/badge/DONE-brightgreen)|
 | 001 | 2741  |   N 찍기    | <img src ="https://static.solved.ac/tier_small/1.svg" width = "15"> | ```https://www.acmicpc.net/problem/2741```  | [바로 가기](./N찍기/README.md)      |  |
 | 002 | 31403 | A + B - C | <img src ="https://static.solved.ac/tier_small/2.svg" width = "15"> | ```https://www.acmicpc.net/problem/31403``` | [바로 가기](./A더하기B빼기C/README.md) | |
 | 003 | 10250 |  ACM 호텔   | <img src ="https://static.solved.ac/tier_small/3.svg" width = "15"> | ```https://www.acmicpc.net/problem/10250``` | [바로 가기](./ACM호텔/README.md)    | |
