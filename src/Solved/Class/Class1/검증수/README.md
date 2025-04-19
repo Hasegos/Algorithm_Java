@@ -10,6 +10,10 @@ ___
 
 ### [해당 코드](./검증수.java)
 
+## 통과
+
+<img src="https://github.com/user-attachments/assets/e6ecd9af-70b6-4d77-96b5-f83f55e42f7a">
+
 ## 문제
 
 컴퓨터를 제조하는 회사인 KOI 전자에서는 제조하는 컴퓨터마다 6자리의 고유번호를 매긴다.<br>
