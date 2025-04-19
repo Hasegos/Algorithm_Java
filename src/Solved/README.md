@@ -8,7 +8,7 @@
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/4f859c3e-6302-4ee1-8dd0-85fa6f0d84f7" width="15"> Class
+## <img src="https://github.com/user-attachments/assets/4f859c3e-6302-4ee1-8dd0-85fa6f0d84f7" width="20"> Class
 
 | 단계별 Class    | 링크  |
 |--------------|-------|
