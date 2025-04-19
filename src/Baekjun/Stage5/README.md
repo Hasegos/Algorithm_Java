@@ -3,7 +3,7 @@
 ### [백준 알고리즘 목차 돌아가기](../README.md)
 
 ❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️
-[1152](https://www.acmicpc.net/problem/1152)
+[1152](https://www.acmicpc.net/)
 [네이버](https://www.naver.com/)
 
 | 순번  |                                   문제번호                                   |                                    문제이름                                     |                                 난이도                                 |            풀이링크             |
