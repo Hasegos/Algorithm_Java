@@ -12,7 +12,7 @@
 
 | 단계별 Class    | 링크                             | 상태|
 |--------------|--------------------------------|---|
-| 1. Class 1   | [링크](./Class/Class1/README.md) | |
+| 1. Class 1   | [링크](./Class/Class1/README.md) |![DONE](https://img.shields.io/badge/DONE-brightgreen) |
 | 2. Class 2   | [링크]()                         | | 
 | 3. Class 3   | [링크]()                         | |
 | 4. Class 4   | [링크]()                         | |
