@@ -1,0 +1,15 @@
+# Class 2단계
+
+### [Solved ac 목차 돌아가기](../../README.md)
+
+❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️
+
+| 순번  | 문제번호  |   문제이름    |                                 난이도                                 |                    문제 주소                    | 풀이링크                       | 상태  |
+|:---:|:-----:|:---------:|:-------------------------------------------------------------------:|:-------------------------------------------:|:---------------------------|:---------:|
+| 000 | 4153  |   직각삼각형   | <img src ="https://static.solved.ac/tier_small/3.svg" width = "15"> | ```https://www.acmicpc.net/problem/4153```  | [바로 가기](./직각삼각형/README.md) | ![DONE](https://img.shields.io/badge/DONE-brightgreen)|
+| 001 |   |       | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/```  | [바로 가기](.//README.md)      | ![DONE](https://img.shields.io/badge/DONE-brightgreen) |
+| 002 |  |  | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/``` | [바로 가기](.//README.md)      |![DONE](https://img.shields.io/badge/DONE-brightgreen) |
+| 003 |  |   | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/``` | [바로 가기](.//README.md)      |![DONE](https://img.shields.io/badge/DONE-brightgreen) |
+| 004 |   |   | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/```  | [바로 가기](.//README.md)      |![DONE](https://img.shields.io/badge/DONE-brightgreen)|
+| 005 |   |        | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/```  | [바로 가기](.//README.md)      |![DONE](https://img.shields.io/badge/DONE-brightgreen)|
+| 006 |   |       | <img src ="https://static.solved.ac/tier_small/.svg" width = "15"> | ```https://www.acmicpc.net/problem/```  | [바로 가기](.//README.md)      |![DONE](https://img.shields.io/badge/DONE-brightgreen) |
