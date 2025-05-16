@@ -1,6 +1,7 @@
 # Class 2단계
 
 ### [Solved ac 목차 돌아가기](../../README.md)
+### [수 정렬에 대한 이야기](./수정렬이야기/README.md)
 
 ❗️❗️꼭 문제를 순서대로 안풀어도 됩니다.❗️❗️
 
@@ -14,3 +15,4 @@
 | 005 | 1259  |    팰린드롬수     | <img src ="https://static.solved.ac/tier_small/5.svg" width = "15"> | ```https://www.acmicpc.net/problem/1259```  |    [바로 가기](./팰린드롬수/README.md)    |![DONE](https://img.shields.io/badge/DONE-brightgreen)|  ★★☆☆☆  |
 | 006 | 2609  | 최대공약수와 최소공배수 | <img src ="https://static.solved.ac/tier_small/5.svg" width = "15"> | ```https://www.acmicpc.net/problem/2609```  | [바로 가기](./최대공약수와최소공배수/README.md) |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★☆☆☆☆|
 | 007 | 2775  |  부녀회장이 될테야   | <img src ="https://static.solved.ac/tier_small/5.svg" width = "15"> | ```https://www.acmicpc.net/problem/2775```  |  [바로 가기](./부녀회장이될테야/README.md)   |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★★☆☆|
+| 008 | 10989 |   수 정렬하기 3   | <img src ="https://static.solved.ac/tier_small/5.svg" width = "15"> | ```https://www.acmicpc.net/problem/10989``` |   [바로 가기](./수정렬하기3/README.md)    |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★★☆☆|
