@@ -54,15 +54,15 @@ ___
 
 <h3>[왼쪽 피벗 선택 방식]</h3>
 
-<img src="https://github.com/user-attachments/assets/6d4aa5cf-19c4-4611-a183-b04cc99ebd55">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fchw02p%2Fbtq5beAEWDZ%2FtNBgPWfHLr4X4WQigxK4KK%2Fimg.png">
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/23ca2e38-796e-40a0-b414-2ec669bc77a9">
+<img src="https://img1.daumcdn.net/thumb/R1920x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FzLHMQ%2Fbtq4Y6CJyJa%2FM0kMrxkquMHf7hyGk4fm50%2Fimg.png">
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/70c4cc0b-b590-4761-a74c-24d1ccdd72fc">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxfaJZ%2Fbtq4YkuCRS5%2F370EyT409RKehnkHMkOoEk%2Fimg.png">
 
 
 위 과정처럼 정렬이 진행되며, 기존 for 에서 O(n^2) 시간 복잡도를 가진 것과 다르게 <br>
