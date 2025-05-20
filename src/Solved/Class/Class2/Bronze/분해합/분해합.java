@@ -1,4 +1,4 @@
-package Solved.Class.Class2.분해합;
+package Solved.Class.Class2.Bronze.분해합;
 
 import java.util.Scanner;
 
