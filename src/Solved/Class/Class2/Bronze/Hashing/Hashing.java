@@ -1,4 +1,4 @@
-package Solved.Class.Class2.Hashing;
+package Solved.Class.Class2.Bronze.Hashing;
 
 import java.util.Scanner;
 
