@@ -15,7 +15,7 @@
 # 백준 문제 풀이 작성형식
 ./문제이름/README.md 
 ```
-[JAVA로 백준 알고리즘 정리](src/Baekjun/README.md) 
+[JAVA로 백준 알고리즘 정리](./src/Baekjun/README.md) 
 
 ## Solved ac
 
@@ -27,4 +27,13 @@ Solved ac 사이트를 참고하여 Class, 문제 등 각종 알고리즘 및 �
 # Solved 문제 풀이 작성형식
 ./문제이름/README.md 
 ```
-[Solved ac 알고리즘 정리](src/Solved/README.md)
+[Solved ac 알고리즘 정리](./src/Solved/README.md)
+
+## 정렬에 대한 이야기
+
+문자열, 숫자등 각종 정렬하는 알고리즘에 대한 예제 및 풀이 저장소입니다. <br>
+
+알고리즘을 풀면서 효율적인 정렬에대한 방법을 기록하기위해 작성되었습니다.<br>
+주로 JAVA 를 사용해서 기록했습니다. 참고 부탁드립니다! :) <br>
+
+ [정렬에 대한 이야기](./src/정렬에대한이야기/README.md)
