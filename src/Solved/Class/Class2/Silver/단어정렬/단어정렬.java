@@ -1,4 +1,4 @@
-package Solved.Class.Class2.단어정렬;
+package Solved.Class.Class2.Silver.단어정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
