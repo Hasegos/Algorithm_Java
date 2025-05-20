@@ -1,4 +1,4 @@
-package Solved.Class.Class2.블랙잭;
+package Solved.Class.Class2.Bronze.블랙잭;
 
 import java.util.Scanner;
 
