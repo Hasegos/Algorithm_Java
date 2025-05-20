@@ -1,4 +1,4 @@
-package Solved.Class.Class2.최대공약수와최소공배수;
+package Solved.Class.Class2.Bronze.최대공약수와최소공배수;
 
 import java.util.Scanner;
 
