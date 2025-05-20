@@ -1,4 +1,4 @@
-package Solved.Class.Class2.웰컴키트;
+package Solved.Class.Class2.Bronze.웰컴키트;
 
 import java.util.Scanner;
 
