@@ -1,4 +1,4 @@
-package Solved.Class.Class2.영화감독숌;
+package Solved.Class.Class2.Silver.영화감독숌;
 
 import java.io.BufferedReader;
 import java.io.IOException;
