@@ -1,4 +1,4 @@
-package Solved.Class.Class2.직각삼각형;
+package Solved.Class.Class2.Bronze.직각삼각형;
 
 import java.util.Scanner;
 
