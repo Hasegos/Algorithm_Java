@@ -1,4 +1,4 @@
-package Solved.Class.Class2.부녀회장이될테야;
+package Solved.Class.Class2.Bronze.부녀회장이될테야;
 
 import java.util.Scanner;
 
