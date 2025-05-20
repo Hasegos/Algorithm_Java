@@ -9,3 +9,4 @@
 | 001 | 1181 |   단어 정렬    | <img src ="https://static.solved.ac/tier_small/6.svg" width = "15"> | ```https://www.acmicpc.net/problem/1181``` |   [바로 가기](./단어정렬/README.md)   |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★★☆☆|
 | 002 | 1436 |   영화감독 숌   | <img src ="https://static.solved.ac/tier_small/6.svg" width = "15"> | ```https://www.acmicpc.net/problem/1436``` |  [바로 가기](./영화감독숌/README.md)   |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★★☆☆|
 | 003 | 1676 | 팩토리얼 0의 개수 | <img src ="https://static.solved.ac/tier_small/6.svg" width = "15"> | ```https://www.acmicpc.net/problem/1676``` | [바로 가기](./팩토리얼0의개수/README.md) |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★☆☆☆|
+| 004 | 2751 |  수 정렬하기 2  | <img src ="https://static.solved.ac/tier_small/6.svg" width = "15"> | ```https://www.acmicpc.net/problem/2751``` |  [바로 가기](./수정렬하기2/README.md)  |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★☆☆☆|
