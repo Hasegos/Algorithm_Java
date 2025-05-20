@@ -1,4 +1,4 @@
-package Solved.Class.Class2.수정렬하기3;
+package Solved.Class.Class2.Bronze.수정렬하기3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
