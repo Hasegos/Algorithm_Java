@@ -1,4 +1,4 @@
-package Solved.Class.Class2.FizzBuzz;
+package Solved.Class.Class2.Bronze.FizzBuzz;
 
 import java.util.Scanner;
 
