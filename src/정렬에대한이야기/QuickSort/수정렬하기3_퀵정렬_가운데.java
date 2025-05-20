@@ -1,4 +1,4 @@
-package Solved.Class.Class2.수정렬이야기;
+package 정렬에대한이야기.QuickSort;
 
 import java.util.Scanner;
 
