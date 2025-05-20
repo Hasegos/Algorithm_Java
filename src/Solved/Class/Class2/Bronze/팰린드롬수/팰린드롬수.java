@@ -1,4 +1,4 @@
-package Solved.Class.Class2.팰린드롬수;
+package Solved.Class.Class2.Bronze.팰린드롬수;
 
 import java.util.Scanner;
 
