@@ -1,4 +1,4 @@
-package Solved.Class.Class2.이항계수1;
+package Solved.Class.Class2.Bronze.이항계수1;
 
 import java.util.Scanner;
 
