@@ -23,3 +23,4 @@
 | 015 | 10773 |     제로     | <img src ="https://static.solved.ac/tier_small/7.svg" width = "15"> | ```https://www.acmicpc.net/problem/10773``` |    [바로 가기](./제로/README.md)    |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★☆☆☆|
 | 016 | 10816 |  숫자 카드 2   | <img src ="https://static.solved.ac/tier_small/7.svg" width = "15"> | ```https://www.acmicpc.net/problem/10816``` |  [바로 가기](./숫자카드2/README.md)   |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★★☆☆|
 | 017 | 10828 |     스택     | <img src ="https://static.solved.ac/tier_small/7.svg" width = "15"> | ```https://www.acmicpc.net/problem/10828``` |    [바로 가기](./스택/README.md)    |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★☆☆☆☆|
+| 018 | 10845 |     큐      | <img src ="https://static.solved.ac/tier_small/7.svg" width = "15"> | ```https://www.acmicpc.net/problem/10845``` |    [바로 가기](./큐/README.md)     |![DONE](https://img.shields.io/badge/DONE-brightgreen) |★★☆☆☆|
