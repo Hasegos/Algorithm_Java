@@ -13,11 +13,11 @@
 </span>
 
 ### [Silver 단계로 이동](./Silver/README.md)
-
+  
 <span>
 <img src ="https://static.solved.ac/tier_small/6.svg" width = "20">
 <img src ="https://static.solved.ac/tier_small/7.svg" width = "20">
 <img src ="https://static.solved.ac/tier_small/8.svg" width = "20">
 <img src ="https://static.solved.ac/tier_small/9.svg" width = "20">
 <img src ="https://static.solved.ac/tier_small/10.svg" width = "20">
-</span>
+</span> 
