@@ -26,11 +26,11 @@
 
 ## 📌 난이도별 풀기
 
-| 난이도별 단계     | 링크                              | 상태                                                       |
-|-------------|---------------------------------|----------------------------------------------------------|
+| 난이도별 단계     | 링크                            | 상태                                                       |
+|-------------|-------------------------------|----------------------------------------------------------|
 | 1. Bronze 5 | [링크](./Level/Bronze5/README.md) |    |
 | 2. Bronze 4 | [링크](./Level/Bronze4/README.md) | ![DOING](https://img.shields.io/badge/DOING-f1d9e3)   | 
 | 3. Bronze 3 | [링크](./Level/Bronze3/README.md) | ![DOING](https://img.shields.io/badge/DOING-f1d9e3) |
 | 4. Bronze 2 | [링크](./Level/Bronze2/README.md) |                                                          |
 | 5. Bronze 1 | [링크](./Level/Bronze1/README.md) |                                                          |
-| 6. Silver 5 | [링크](./Level/Silver5/README.md) |                                                          |
+| 6. Silver 5 | [링크](Level/Silver5/README.md) |  ![DOING](https://img.shields.io/badge/DOING-f1d9e3)                                                        |
