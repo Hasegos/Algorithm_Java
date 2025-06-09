@@ -19,9 +19,11 @@ public class 이xN타일링 {
     public static int add(int N){
         arr[1] = 1;
         arr[2] = 2;
-        /* ––––– 3부터는 그전 경우의수를 더하고 10007로 나눈 나머지 ––––– */
-        for(int i = 3; i<=N; i++){
-            arr[i] = (arr[i - 2] + arr[i - 1]) % 10007;
+        /* ––––– 3부터는 그전 경우의수를 더하고 10007로 나눈 나머지  ––––– */
+        if(N >= 3){
+            for(int i = 3; i<=N; i++){
+                arr[i] = (arr[i - 2] + arr[i - 1]) % 10007;
+            }
         }
         return arr[N];
     }
