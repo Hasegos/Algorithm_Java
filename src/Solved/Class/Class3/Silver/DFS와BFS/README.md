@@ -1,4 +1,4 @@
-# DFS와 BFS 
+# DFS와 BFS
 
 ## 목차
 
@@ -90,4 +90,4 @@ ___
 **BFS (Breadth-First Search) 는 너비를 우선으로 하는 탐색이다.**<br>
 **각각 DFS 는 주로 재귀, Stack 으로 풀고 BFS 는 주로 Queue, LinkedList 를 이용해서 푼다**<br>
 
-[맨위로 이동하기](#dfs와-bfs-)
+[맨위로 이동하기](#dfs와-bfs)
