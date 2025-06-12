@@ -13,3 +13,11 @@
 <img src ="https://static.solved.ac/tier_small/9.svg" width = "20">
 <img src ="https://static.solved.ac/tier_small/10.svg" width = "20">
 </span>
+
+
+### [Gold 단계로 이동](./Gold/README.md)
+
+<span>
+<img src ="https://static.solved.ac/tier_small/11.svg" width = "20">
+<img src ="https://static.solved.ac/tier_small/12.svg" width = "20">
+</span>
