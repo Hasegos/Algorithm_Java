@@ -21,3 +21,4 @@
 | 8. 일반 수학 1 | [링크](Stage8/README.md)  |
 | 9. 약수, 배수와 소수 | [링크](Stage9/README.md) |
 | 10. 기하: 직사각형과 삼각형 | [링크](Stage10/README.md) |
+| 32. 동적 계획법과 최단거리 역추적 | [링크](Stage32/README.md)|
