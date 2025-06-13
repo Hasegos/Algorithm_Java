@@ -10,6 +10,10 @@ ___
 
 ### [해당 코드](./삼각형외우기.java)
 
+## 통과
+
+<img src="https://github.com/user-attachments/assets/5ed24b08-a3fe-459f-b3d8-5e9d29f1bf86">
+
 ## 문제
 
 창영이는 삼각형의 종류를 잘 구분하지 못한다. 따라서 프로그램을 이용해 이를 외우려고 한다.
