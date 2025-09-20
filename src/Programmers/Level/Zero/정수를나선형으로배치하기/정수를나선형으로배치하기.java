@@ -1,4 +1,4 @@
-package Programmers.Level.Zero;
+package Programmers.Level.Zero.정수를나선형으로배치하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
