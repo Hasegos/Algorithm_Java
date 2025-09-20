@@ -5,7 +5,7 @@
 1. 문제 주소 : `https://school.programmers.co.kr/learn/courses/30/lessons/12931`
 2. [문제 시작](#문제)
 3. [해결방안](#해결방안)
-4. [프로그래머스 목차 돌아가기](../../README.md)
+4. [프로그래머스 레벨 1 목차 돌아가기](../README.md)
 ___
 
 ## 문제
