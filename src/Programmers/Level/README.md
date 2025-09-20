@@ -14,7 +14,7 @@
 ---
 
 ## Level 1
-👉 [Level 0 문제 모음](./One/README.md)
+👉 [Level 1 문제 모음](./One/README.md)
 
 ---
 
