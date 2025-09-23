@@ -22,6 +22,15 @@
 | 9  | 정수 내림차순으로 배치하기    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12933) / [풀이](./정수내림차순으로배치하기/README.md)  | ✅ 해결 |
 | 10 | 두 정수 사이의 합        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12912) / [풀이](./두정수사이의합/README.md)       | ✅ 해결 |
 | 11 | 문자열 내 p와 y의 개수    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12916) / [풀이](./문자열내p와y의개수/README.md)    | ✅ 해결 |
+| 12 | 정수 제곱근 판별         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12934) / [풀이](./정수제곱근판별/README.md)       | ✅ 해결 |
+| 13 | 하샤드 수             | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12947) / [풀이](./하샤드수/README.md)          | ✅ 해결 |
+| 14 | 음양 더하기            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/76501) / [풀이](./음양더하기/README.md)         | ✅ 해결 |
+| 15 | 없는 숫자 더하기         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86051) / [풀이](./없는숫자더하기/README.md)       | ✅ 해결 |
+| 16 | 나누어 떨어지는 숫자 배열    | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12910) / [풀이](./나누어떨어지는숫자배열/README.md)   | ✅ 해결 |
+| 17 | 서울에서 김서방 찾기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12919) / [풀이](./서울에서김서방찾기/README.md)     | ✅ 해결 |
+| 18 | 콜라츠 추측            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12943) / [풀이](./콜라츠추측/README.md)         | ✅ 해결 |
+| 19 | 핸드폰 번호 가리기        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12948) / [풀이](./핸드폰번호가리기/README.md)      | ✅ 해결 |
+| 20 | 가운데 글자 가져오기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](./가운데글자가져오기/README.md)     | ✅ 해결 |
 
 ---
 
