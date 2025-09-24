@@ -31,6 +31,16 @@
 | 18 | 콜라츠 추측            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12943) / [풀이](./콜라츠추측/README.md)         | ✅ 해결 |
 | 19 | 핸드폰 번호 가리기        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12948) / [풀이](./핸드폰번호가리기/README.md)      | ✅ 해결 |
 | 20 | 가운데 글자 가져오기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12903) / [풀이](./가운데글자가져오기/README.md)     | ✅ 해결 |
+| 21 | 제일 작은 수 제거하기      | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12935) / [풀이](./제일작은수제거하기/README.md)     | ✅ 해결 |
+| 22 | 내적                | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/70128) / [풀이](./내적/README.md)            | ✅ 해결 |
+| 23 | 수박수박수박수박수박수?      | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12922) / [풀이](./수박수박수박수박수박수/README.md)   | ✅ 해결 |
+| 24 | 약수의 개수와 덧셈        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/77884) / [풀이](./약수의개수와덧셈/README.md)      | ✅ 해결 |
+| 25 | 문자열 내림차순으로 배치하기   | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12917) / [풀이](./문자열내림차순으로배치하기/README.md) | ✅ 해결 |
+| 26 | 부족한 금액 계산하기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) / [풀이](./부족한금액계산하기/README.md)     | ✅ 해결 |
+| 27 | 문자열 다루기 기본        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12918) / [풀이](./문자열다루기기본/README.md)      | ✅ 해결 |
+| 28 | 행렬의 덧셈            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12950) / [풀이](./행렬의덧셈/README.md)         | ✅ 해결 |
+| 29 | 직사각형 별찍기          | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](./직사각형별찍기/README.md)       | ✅ 해결 |
+| 30 | 같은 숫자는 싫어         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12906) / [풀이](./같은숫자는싫어/README.md)       | ✅ 해결 |
 
 ---
 
