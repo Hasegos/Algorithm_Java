@@ -41,6 +41,10 @@
 | 28 | 행렬의 덧셈            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12950) / [풀이](./행렬의덧셈/README.md)         | ✅ 해결 |
 | 29 | 직사각형 별찍기          | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12969) / [풀이](./직사각형별찍기/README.md)       | ✅ 해결 |
 | 30 | 같은 숫자는 싫어         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12906) / [풀이](./같은숫자는싫어/README.md)       | ✅ 해결 |
+| 31 | 최대공약수와 최소공배수      | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12940) / [풀이](./최대공약수와최소공배수/README.md)   | ✅ 해결 |
+| 32 | 크기가 작은 부분 문자열     | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147355) / [풀이](./크기가작은부분문자열/README.md)   | ✅ 해결 |
+| 33 | 예산                | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12982) / [풀이](./예산/README.md)            | ✅ 해결 |
+| 34 | 3진법 뒤집기           | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68935) / [풀이](./숫자3진법뒤집기/README.md)      | ✅ 해결 |
 
 ---
 
