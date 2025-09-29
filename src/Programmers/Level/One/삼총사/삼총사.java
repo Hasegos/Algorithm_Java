@@ -4,6 +4,7 @@ public class 삼총사 {
     public static void main(String[] args) {
         solution(new int[] {-2, 3, 0, 2, -5});
     }
+
     public static int solution(int[] number){
         int answer = 0;
         for(int i = 0; i < number.length; i++){
