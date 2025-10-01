@@ -48,6 +48,8 @@
 | 35 | 삼총사               | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705) / [풀이](./삼총사/README.md)          | ✅ 해결 |
 | 36 | 이상한 문자 만들기        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12930) / [풀이](./이상한문자만들기/README.md)      | ✅ 해결 |
 | 37 | 최소직사각형            | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/86491) / [풀이](./최소직사각형/README.md)        | ✅ 해결 |
+| 38 | 가장 가까운 같은 글자      | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142086) / [풀이](./가장가까운같은글자/README.md)    | ✅ 해결 |
+| 39 | 시저 암호             | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12926) / [풀이](./시저암호/README.md)          | ✅ 해결 |
 
 ---
 
