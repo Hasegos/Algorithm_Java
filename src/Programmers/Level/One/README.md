@@ -51,6 +51,7 @@
 | 38 | 가장 가까운 같은 글자      | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142086) / [풀이](./가장가까운같은글자/README.md)    | ✅ 해결 |
 | 39 | 시저 암호             | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12926) / [풀이](./시저암호/README.md)          | ✅ 해결 |
 | 40 | 두 개 뽑아서 더하기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./두개뽑아서더하기/README.md)      | ✅ 해결 |
+| 41 | 푸드 파이트 대회         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) / [풀이](./푸드파이트대회/README.md)      | ✅ 해결 |
 
 ---
 
