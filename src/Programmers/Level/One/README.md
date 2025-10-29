@@ -53,6 +53,7 @@
 | 40 | 두 개 뽑아서 더하기       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68644) / [풀이](./두개뽑아서더하기/README.md)      | ✅ 해결 |
 | 41 | 푸드 파이트 대회         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) / [풀이](./푸드파이트대회/README.md)      | ✅ 해결 |
 | 42 | 숫자 문자열과 영단어       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / [풀이](./숫자문자열과영단어/README.md)     | ✅ 해결 |
+| 43 | K번째수              | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](./K번째수/README.md)          | ✅ 해결 |
 
 ---
 
