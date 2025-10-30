@@ -54,6 +54,7 @@
 | 41 | 푸드 파이트 대회         | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/134240) / [풀이](./푸드파이트대회/README.md)      | ✅ 해결 |
 | 42 | 숫자 문자열과 영단어       | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) / [풀이](./숫자문자열과영단어/README.md)     | ✅ 해결 |
 | 43 | K번째수              | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](./K번째수/README.md)          | ✅ 해결 |
+| 44 | 콜라 문제             | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) / [풀이](./콜라문제/README.md)         | ✅ 해결 |
 
 ---
 
