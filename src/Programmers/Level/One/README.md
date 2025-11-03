@@ -56,6 +56,7 @@
 | 43 | K번째수              | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42748) / [풀이](./K번째수/README.md)          | ✅ 해결 |
 | 44 | 콜라 문제             | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) / [풀이](./콜라문제/README.md)         | ✅ 해결 |
 | 45 | 문자열 내 마음대로 정렬하기   | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12915) / [풀이](./문자열내마음대로정렬하기/README.md)  | ✅ 해결 |
+| 46 | 명예의 전당 (1)        | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/138477) / [풀이](./명예의전당_1/README.md)      | ✅ 해결 |
 
 ---
 
