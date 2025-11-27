@@ -15,7 +15,7 @@
 # 백준 문제 풀이 작성형식
 ./문제이름/README.md 
 ```
-[JAVA로 백준 알고리즘 정리](./src/Baekjun/README.md) 
+[JAVA로 백준 알고리즘 정리](src/Baekjun/단계별로풀어보기/README.md) 
 
 ## Solved ac
 
