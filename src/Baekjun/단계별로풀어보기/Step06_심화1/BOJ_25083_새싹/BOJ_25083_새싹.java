@@ -1,6 +1,6 @@
 package Stage6.새싹;
 
-public class 새싹 {
+public class BOJ_25083_새싹 {
 
     public static void main(String[] args) {
 
