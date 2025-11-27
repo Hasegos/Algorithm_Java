@@ -1,4 +1,4 @@
-package Baekjun.단계별로풀어보기.집합과맵.숫자카드;
+package Baekjun.단계별로풀어보기.Step14_집합과맵.BOJ_10815_숫자카드;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 숫자카드 {
+public class BOJ_10815_숫자카드 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
