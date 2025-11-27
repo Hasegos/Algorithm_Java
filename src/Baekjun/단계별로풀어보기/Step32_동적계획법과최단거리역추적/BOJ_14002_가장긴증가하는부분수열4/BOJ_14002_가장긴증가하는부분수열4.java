@@ -1,4 +1,4 @@
-package Baekjun.Stage32.가장긴증가하는부분수열4;
+package Baekjun.단계별로풀어보기.Step32_동적계획법과최단거리역추적.BOJ_14002_가장긴증가하는부분수열4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class 가장긴증가하는부분수열4 {
+public class BOJ_14002_가장긴증가하는부분수열4 {
 
     static int[] arr; // 배열
     static int[] trace; // 역추적
