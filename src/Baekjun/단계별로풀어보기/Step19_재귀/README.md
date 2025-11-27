@@ -6,4 +6,4 @@
 
 | 순번  | 문제번호 |   문제이름    |                                 난이도                                  |                   문제 주소                    | 풀이링크                       | 상태  |
 |:---:|:----:|:---------:|:--------------------------------------------------------------------:|:------------------------------------------:|:---------------------------|:---------:|
-| 001 | 2447 | 별 찍기 - 10 | <img src ="https://static.solved.ac/tier_small/11.svg" width = "15"> | ```https://www.acmicpc.net/problem/2447``` | [바로 가기](./별찍기10/README.md) | ![DONE](https://img.shields.io/badge/DONE-brightgreen) |
+| 001 | 2447 | 별 찍기 - 10 | <img src ="https://static.solved.ac/tier_small/11.svg" width = "15"> | ```https://www.acmicpc.net/problem/2447``` | [바로 가기](./BOJ_2447_별찍기10/README.md) | ![DONE](https://img.shields.io/badge/DONE-brightgreen) |
