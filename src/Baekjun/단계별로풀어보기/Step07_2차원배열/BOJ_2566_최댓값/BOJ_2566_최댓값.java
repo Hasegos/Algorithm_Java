@@ -1,8 +1,8 @@
-package Baekjun.Stage7.최댓값;
+package Baekjun.단계별로풀어보기.Step07_2차원배열.BOJ_2566_최댓값;
 
 import java.util.Scanner;
 
-public class 최댓값 {
+public class BOJ_2566_최댓값 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
