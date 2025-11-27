@@ -1,8 +1,8 @@
-package Baekjun.Stage5.상수;
+package Baekjun.단계별로풀어보기.Step05_문자열.BOJ_2908_상수;
 
 import java.util.Scanner;
 
-public class 상수 {
+public class BOJ_2908_상수 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
