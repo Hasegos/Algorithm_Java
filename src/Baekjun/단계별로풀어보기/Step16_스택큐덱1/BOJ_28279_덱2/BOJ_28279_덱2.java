@@ -1,4 +1,4 @@
-package Baekjun.단계별로풀어보기.스택큐덱1단계.덱2;
+package Baekjun.단계별로풀어보기.Step16_스택큐덱1.BOJ_28279_덱2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class 덱2 {
+public class BOJ_28279_덱2 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
