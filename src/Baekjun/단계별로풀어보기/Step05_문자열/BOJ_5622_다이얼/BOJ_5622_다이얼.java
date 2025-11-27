@@ -1,8 +1,8 @@
-package Baekjun.Stage5.다이얼;
+package Baekjun.단계별로풀어보기.Step05_문자열.BOJ_5622_다이얼;
 
 import java.util.Scanner;
 
-public class 다이얼 {
+public class BOJ_5622_다이얼 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
