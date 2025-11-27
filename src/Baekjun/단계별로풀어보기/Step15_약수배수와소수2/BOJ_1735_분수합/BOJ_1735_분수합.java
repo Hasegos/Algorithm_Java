@@ -1,10 +1,10 @@
-package Baekjun.단계별로풀어보기.약수배수와소수2.분수합;
+package Baekjun.단계별로풀어보기.Step15_약수배수와소수2.BOJ_1735_분수합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 분수합 {
+public class BOJ_1735_분수합 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
