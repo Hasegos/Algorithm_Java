@@ -1,4 +1,4 @@
-package Baekjun.단계별로풀어보기.집합과맵.문자열집합;
+package Baekjun.단계별로풀어보기.Step14_집합과맵.BOJ_14425_문자열집합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 문자열집합 {
+public class BOJ_14425_문자열집합 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
