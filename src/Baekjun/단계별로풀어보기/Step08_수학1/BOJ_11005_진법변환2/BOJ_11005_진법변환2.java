@@ -2,7 +2,7 @@ package Stage8.진법변환2;
 
 import java.util.Scanner;
 
-public class 진법변환2 {
+public class BOJ_11005_진법변환2 {
 
     public static void main(String[] args) {
 
