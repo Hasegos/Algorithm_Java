@@ -2,7 +2,7 @@ package Stage6.킹퀸룩비숍나이트폰;
 
 import java.util.Scanner;
 
-public class 킹퀸룩비숍나이트폰 {
+public class BOJ_3003_킹퀸룩비숍나이트폰 {
 
     public static void main(String[] args) {
         int[] arr = new int[6];
