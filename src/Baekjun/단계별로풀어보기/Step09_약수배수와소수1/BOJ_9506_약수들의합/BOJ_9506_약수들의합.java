@@ -2,7 +2,7 @@ package Stage9.약수들의합;
 
 import java.util.Scanner;
 
-public class 약수들의합 {
+public class BOJ_9506_약수들의합 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
