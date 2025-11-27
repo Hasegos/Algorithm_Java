@@ -2,7 +2,7 @@ package Stage6.팰린드롬인지확인하기;
 
 import java.util.Scanner;
 
-public class 팰린드롬인지확인하기 {
+public class BOJ_10988_팰린드롬인지확인하기 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
