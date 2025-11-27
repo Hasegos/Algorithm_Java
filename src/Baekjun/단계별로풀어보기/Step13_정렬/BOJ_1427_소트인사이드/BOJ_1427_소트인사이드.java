@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.정렬.소트인사이드;
+package Baekjun.단계별로풀어보기.Step13_정렬.BOJ_1427_소트인사이드;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class 소트인사이드 {
+public class BOJ_1427_소트인사이드 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
