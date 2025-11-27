@@ -1,10 +1,10 @@
-package Baekjun.Stage32.일로만들기2;
+package Baekjun.단계별로풀어보기.Step32_동적계획법과최단거리역추적.BOJ_12852_1로만들기2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 일로만들기2 {
+public class BOJ_12852_1로만들기2 {
 
     static int[] arr; // 배열
     static int[] trace; // 추적
