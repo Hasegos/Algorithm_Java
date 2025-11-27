@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.스택큐덱1단계.스택2;
+package Baekjun.단계별로풀어보기.Step16_스택큐덱1.BOJ_28278_스택2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class 스택2 {
+public class BOJ_28278_스택2 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
