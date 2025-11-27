@@ -2,7 +2,7 @@ package Stage9.약수구하기;
 
 import java.util.Scanner;
 
-public class 약수구하기 {
+public class BOJ_2501_약수구하기 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
