@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.집합과맵.서로다른부분문자열의개수;
+package Baekjun.단계별로풀어보기.Step14_집합과맵.BOJ_11478_서로다른부분문자열의개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 
-public class 서로다른부분문자열의개수 {
+public class BOJ_11478_서로다른부분문자열의개수 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
