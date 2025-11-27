@@ -1,10 +1,10 @@
-package Baekjun.단계별로풀어보기.약수배수와소수2.창문닫기;
+package Baekjun.단계별로풀어보기.Step15_약수배수와소수2.BOJ_13909_창문닫기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 창문닫기 {
+public class BOJ_13909_창문닫기 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
