@@ -2,7 +2,7 @@ package Stage6.단어공부;
 
 import java.util.Scanner;
 
-public class 단어공부 {
+public class BOJ_1157_단어공부 {
 
     public static void main(String[] args) {
 
