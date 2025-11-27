@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.시간복잡도.알고리즘수업_점근적표기1;
+package Baekjun.단계별로풀어보기.Step11_시간복잡도.BOJ_24313_알고리즘수업_점근적표기1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class 알고리즘수업_점근적표기1 {
+public class BOJ_24313_알고리즘수업_점근적표기1 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
