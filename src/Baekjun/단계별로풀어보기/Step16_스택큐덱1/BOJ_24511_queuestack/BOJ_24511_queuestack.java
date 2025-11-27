@@ -1,4 +1,4 @@
-package Baekjun.단계별로풀어보기.스택큐덱1단계.queuestack;
+package Baekjun.단계별로풀어보기.Step16_스택큐덱1.BOJ_24511_queuestack;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class queuestack {
+public class BOJ_24511_queuestack {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
