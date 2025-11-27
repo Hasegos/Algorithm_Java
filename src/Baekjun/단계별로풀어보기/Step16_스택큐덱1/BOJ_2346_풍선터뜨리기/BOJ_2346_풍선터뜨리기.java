@@ -1,4 +1,4 @@
-package Baekjun.단계별로풀어보기.스택큐덱1단계.풍선터뜨리기;
+package Baekjun.단계별로풀어보기.Step16_스택큐덱1.BOJ_2346_풍선터뜨리기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class 풍선터뜨리기 {
+public class BOJ_2346_풍선터뜨리기 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
