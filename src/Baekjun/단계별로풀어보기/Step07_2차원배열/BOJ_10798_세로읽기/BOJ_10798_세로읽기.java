@@ -1,8 +1,8 @@
-package Baekjun.Stage7.세로읽기;
+package Baekjun.단계별로풀어보기.Step07_2차원배열.BOJ_10798_세로읽기;
 
 import java.util.Scanner;
 
-public class 세로읽기 {
+public class BOJ_10798_세로읽기 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
