@@ -2,7 +2,7 @@ package Stage9.소수;
 
 import java.util.Scanner;
 
-public class 소수 {
+public class BOJ_2581_소수 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
