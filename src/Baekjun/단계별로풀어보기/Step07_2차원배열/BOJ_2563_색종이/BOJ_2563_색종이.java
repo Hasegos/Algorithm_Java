@@ -1,8 +1,8 @@
-package Baekjun.Stage7.색종이;
+package Baekjun.단계별로풀어보기.Step07_2차원배열.BOJ_2563_색종이;
 
 import java.util.Scanner;
 
-public class 색종이 {
+public class BOJ_2563_색종이 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
