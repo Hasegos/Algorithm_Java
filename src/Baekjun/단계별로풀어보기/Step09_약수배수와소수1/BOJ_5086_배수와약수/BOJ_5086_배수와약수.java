@@ -2,7 +2,7 @@ package Stage9.배수와약수;
 
 import java.util.Scanner;
 
-public class 배수와약수 {
+public class BOJ_5086_배수와약수 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
