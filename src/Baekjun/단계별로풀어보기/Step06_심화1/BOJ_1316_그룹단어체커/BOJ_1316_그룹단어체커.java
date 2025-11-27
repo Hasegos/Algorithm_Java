@@ -2,7 +2,7 @@ package Stage6.그룹단어체커;
 
 import java.util.Scanner;
 
-public class 그룹단어체커 {
+public class BOJ_1316_그룹단어체커 {
 
     public static void main(String[] args) {
 
