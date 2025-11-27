@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.정렬.대표값2;
+package Baekjun.단계별로풀어보기.Step13_정렬.BOJ_2587_대표값2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class 대표값2 {
+public class BOJ_2587_대표값2 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
