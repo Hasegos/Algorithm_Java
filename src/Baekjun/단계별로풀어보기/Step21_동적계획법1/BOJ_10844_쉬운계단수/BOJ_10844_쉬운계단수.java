@@ -1,10 +1,10 @@
-package Baekjun.단계별로풀어보기.동적계획법1.쉬운계단수;
+package Baekjun.단계별로풀어보기.Step21_동적계획법1.BOJ_10844_쉬운계단수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 쉬운계단수 {
+public class BOJ_10844_쉬운계단수 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
