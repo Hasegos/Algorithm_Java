@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.정렬.커트라인;
+package Baekjun.단계별로풀어보기.Step13_정렬.BOJ_25305_커트라인;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class 커트라인 {
+public class BOJ_25305_커트라인 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
