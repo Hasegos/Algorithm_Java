@@ -1,8 +1,8 @@
-package Baekjun.Stage5.그대로출력하기;
+package Baekjun.단계별로풀어보기.Step05_문자열.BOJ_11718_그대로출력하기;
 
 import java.util.Scanner;
 
-public class 그대로출력하기 {
+public class BOJ_11718_그대로출력하기 {
 
     public static void main(String[] args) {
 
