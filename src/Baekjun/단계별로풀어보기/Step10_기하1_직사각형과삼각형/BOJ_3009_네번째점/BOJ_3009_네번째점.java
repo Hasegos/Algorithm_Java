@@ -1,8 +1,8 @@
-package Baekjun.Stage10.네번째점;
+package Baekjun.단계별로풀어보기.Step10_기하1_직사각형과삼각형.BOJ_3009_네번째점;
 
 import java.util.Scanner;
 
-public class 네번째점 {
+public class BOJ_3009_네번째점 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
