@@ -1,11 +1,11 @@
-package Baekjun.단계별로풀어보기.브루트포스.수학은비대면강의입니다;
+package Baekjun.단계별로풀어보기.Step12_브루트포스.BOJ_19532_수학은비대면강의입니다;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class 수학은비대면강의입니다 {
+public class BOJ_19532_수학은비대면강의입니다 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
