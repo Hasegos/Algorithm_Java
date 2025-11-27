@@ -1,8 +1,8 @@
-package Baekjun.Stage7.행렬덧셈;
+package Baekjun.단계별로풀어보기.Step07_2차원배열.BOJ_2738_행렬덧셈;
 
 import java.util.Scanner;
 
-public class 행렬덧셈 {
+public class BOJ_2738_행렬덧셈 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
