@@ -2,7 +2,7 @@ package Stage9.소수찾기;
 
 import java.util.Scanner;
 
-public class 소수찾기 {
+public class BOJ_1978_소수찾기 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
