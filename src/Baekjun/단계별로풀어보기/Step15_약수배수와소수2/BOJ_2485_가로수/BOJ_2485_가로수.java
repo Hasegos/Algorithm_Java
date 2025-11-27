@@ -1,10 +1,10 @@
-package Baekjun.단계별로풀어보기.약수배수와소수2.가로수;
+package Baekjun.단계별로풀어보기.Step15_약수배수와소수2.BOJ_2485_가로수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 가로수 {
+public class BOJ_2485_가로수 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
