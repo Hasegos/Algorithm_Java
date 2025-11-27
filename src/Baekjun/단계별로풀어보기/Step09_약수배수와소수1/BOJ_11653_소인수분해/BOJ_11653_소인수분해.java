@@ -2,7 +2,7 @@ package Stage9.소인수분해;
 
 import java.util.Scanner;
 
-public class 소인수분해 {
+public class BOJ_11653_소인수분해 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
