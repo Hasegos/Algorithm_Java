@@ -1,10 +1,10 @@
-package Baekjun.Stage10.삼각형외우기;
+package Baekjun.단계별로풀어보기.Step10_기하1_직사각형과삼각형.BOJ_10101_삼각형외우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 삼각형외우기 {
+public class BOJ_10101_삼각형외우기 {
 
     public static void main(String[] args) throws IOException {
         /* ––––– 사용자로부터 입력부분 ––––– */
