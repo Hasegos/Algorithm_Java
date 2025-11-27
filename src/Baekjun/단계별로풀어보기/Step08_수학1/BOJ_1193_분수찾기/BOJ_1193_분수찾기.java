@@ -2,7 +2,7 @@ package Stage8.분수찾기;
 
 import java.util.Scanner;
 
-public class 분수찾기 {
+public class BOJ_1193_분수찾기 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
