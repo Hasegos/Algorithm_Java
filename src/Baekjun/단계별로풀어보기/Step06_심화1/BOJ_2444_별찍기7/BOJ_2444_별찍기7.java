@@ -2,7 +2,7 @@ package Stage6.별찍기7;
 
 import java.util.Scanner;
 
-public class 별찍기7 {
+public class BOJ_2444_별찍기7 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
