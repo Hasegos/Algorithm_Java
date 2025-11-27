@@ -2,7 +2,7 @@ package Stage6.너의평점은;
 
 import java.util.Scanner;
 
-public class 너의평점은 {
+public class BOJ_25206_너의평점은 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
