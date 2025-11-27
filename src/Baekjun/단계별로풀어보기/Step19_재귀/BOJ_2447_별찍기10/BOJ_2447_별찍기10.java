@@ -1,10 +1,10 @@
-package Baekjun.Stage19.별찍기10;
+package Baekjun.단계별로풀어보기.Step19_재귀.BOJ_2447_별찍기10;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 별찍기10 {
+public class BOJ_2447_별찍기10 {
 
     static char[][] arr;
     public static void main(String[] args) throws IOException {
