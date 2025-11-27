@@ -2,7 +2,7 @@ package Stage8.세탁소사장동혁;
 
 import java.util.Scanner;
 
-public class 세탁소사장동혁 {
+public class BOJ_2720_세탁소사장동혁 {
 
     public static void main(String[] args) {
 
