@@ -1,8 +1,8 @@
-package Baekjun.Stage5.단어의개수;
+package Baekjun.단계별로풀어보기.Step05_문자열.BOJ_1152_단어의개수;
 
 import java.util.Scanner;
 
-public class 단어의개수 {
+public class BOJ_1152_단어의개수 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
