@@ -12,7 +12,7 @@
 | 03  | 24060     | 알고리즘 수업 - 병합 정렬 1     | <img src ="https://static.solved.ac/tier_small/8.svg" width = "15">  | ```https://www.acmicpc.net/problem/24060``` | [바로 가기](./BOJ_24060_알고리즘수업_병합정렬1/README.md) | ✅ |
 | 04  | 4779	     | 칸토어 집합     | <img src ="https://static.solved.ac/tier_small/8.svg" width = "15">  | ```https://www.acmicpc.net/problem/4779	``` | [바로 가기]()                                   |  🔒  |
 | 05  | 2447     |  별 찍기 - 10     | <img src ="https://static.solved.ac/tier_small/11.svg" width = "15"> | ```https://www.acmicpc.net/problem/2447``` | [바로 가기](./BOJ_2447_별찍기10/README.md)         |  ✅ |
-| 06  |11729|  하노이 탑 이동 순서    | <img src ="https://static.solved.ac/tier_small/11.svg" width = "15"> | ```https://www.acmicpc.net/problem/11729```  | [바로 가기]()                                   |  🔒  |
+| 06  |11729|  하노이 탑 이동 순서    | <img src ="https://static.solved.ac/tier_small/11.svg" width = "15"> | ```https://www.acmicpc.net/problem/11729```  | [바로 가기](./BOJ_11729_하노이탑이동순서/README.md)     |  ✅  |
 
 > **Status Guide**
 > * ✅ : 완료 (All Solved)
